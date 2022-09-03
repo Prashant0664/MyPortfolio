@@ -5,10 +5,10 @@
 
 <hr>
 ### Features
-⚡️Modern UI Design + Reveal Animations
-⚡️Fully Responsive
-⚡️Valid HTML5 & CSS3
-⚡️Well organized documentation
+⚡️Modern UI Design + Reveal Animations<br>
+⚡️Fully Responsive<br>
+⚡️Valid HTML5 & CSS3<br>
+⚡️Well organized documentation<br>
 
 <hr>
 
