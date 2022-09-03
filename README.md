@@ -1,6 +1,6 @@
 # MyPortfolio
 <hr>
-## A PORTFOLIO WEBSITE USING HTML, CSS,JS
+## A PORTFOLIO WEBSITE USING HTML, CSS, JS
 
 
 https://user-images.githubusercontent.com/98750053/188267059-b36ad480-7309-4705-b822-69411824cc8d.mp4
