@@ -1,13 +1,17 @@
 # MyPortfolio
 <hr>
+
 ## A PORTFOLIO WEBSITE USING HTML, CSS, JS
 
+<br>
 
 https://user-images.githubusercontent.com/98750053/188267059-b36ad480-7309-4705-b822-69411824cc8d.mp4
 
 
 
 <hr>
+<br>
+
 ### Features 
 ⚡️Modern UI Design + Reveal Animations<br>
 ⚡️Fully Responsive<br>
